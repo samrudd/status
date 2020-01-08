@@ -11,6 +11,7 @@ params:
       name: Web Servers
     - closed: true
       name: KVM Nodes
+    - name: Internal Systems
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
