@@ -6,7 +6,9 @@ baseURL: 'https://cstate.mnts.lt'
 params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
-  categories: []
+  categories:
+    - closed: true
+      name: Web Servers
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
@@ -22,8 +24,8 @@ params:
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - category: North Coast
-      name: Gateway
+    - category: Web Servers
+      name: Cloud Hosting
     - category: East Coast
       name: Backup Gateway
   useLargeHeaderDesign: false
