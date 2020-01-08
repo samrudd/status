@@ -26,8 +26,10 @@ params:
   systems:
     - category: Web Servers
       name: Cloud Hosting
-    - category: East Coast
-      name: Backup Gateway
+    - category: Web Servers
+      name: UK1 - Direct Admin
+    - category: Web Servers
+      name: USA1 - Direct Admin
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
