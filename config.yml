@@ -9,6 +9,8 @@ params:
   categories:
     - closed: true
       name: Web Servers
+    - closed: true
+      name: KVM Nodes
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
@@ -30,6 +32,10 @@ params:
       name: UK1 - Direct Admin
     - category: Web Servers
       name: USA1 - Direct Admin
+    - category: KVM Nodes
+      name: London 1
+    - category: KVM Nodes
+      name: London 2
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
