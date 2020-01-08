@@ -26,14 +26,6 @@ params:
       name: Gateway
     - category: East Coast
       name: Backup Gateway
-    - category: Uncategorized
-      description: The guts of the application.
-      name: API
-    - category: Uncategorized
-      description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
-      name: Media Proxy
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
