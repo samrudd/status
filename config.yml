@@ -1,4 +1,4 @@
-title: Eggsample Status
+title: DevonWebs Network Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -6,12 +6,7 @@ baseURL: 'https://cstate.mnts.lt'
 params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
-  categories:
-    - closed: true
-      description: The main servers are located here.
-      name: North Coast
-    - name: East Coast
-    - name: Uncategorized
+  categories: []
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
